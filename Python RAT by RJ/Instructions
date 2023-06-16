@@ -1,0 +1,8 @@
+The python RAT is a Reverse Sell Remote Access Tool.
+
+It is a very simplistic execution:
+  The Listening machine should run the Server.py (This can be executed on any operating system with python)
+  The Victim machine should receive the RAT in its python form or use the example EXE I have created where the Icon and Name are trojan-horsified, if you will.
+  Once this RAT is opened, It will establish a connection between the Victim and Listening machine with a shell where you can then execute any commands.
+  
+A very simple but effective script that can be used in numerous ways against victims.
