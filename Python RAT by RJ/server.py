@@ -1,7 +1,7 @@
 import sys
 import socket
 
-SERVER_IP = "127.0.0.1"
+SERVER_IP = input("Enter Listening IP: ")
 PORT = 4444
 
 # CREATES A SOCKET OBJECT FOR THE NETWORK STACK
