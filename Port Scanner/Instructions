@@ -1,0 +1,10 @@
+There are 3 port scanners which are all at different levels of programming.
+
+The Simple port scanner is a simple localhost scanner that is slow and inefficient.
+  This is purely just for fun.
+  
+The Quick port scanner is an advanced and upgraded version of the simple scanner that utilises the CPU more efficiently.
+  This will only scan up to port 1024.
+
+The Advanced port scanner will do the same as the Quick Port scanner but it will go into more detail and search through all 65535 ports.
+  For the most common ports, there are descriptions for what they are.
