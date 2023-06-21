@@ -1,0 +1,33 @@
+This is a Pong Remote Access Trojan.
+
+When ran, this file will appear to be an innocent game of pong but in reality, it will be connecting to a server script ran on the attacking machine, giving full access to the target with some pre-set commands.
+
+Ping.py
+  Server file (no configuration).
+  The IP can be set to whatever you like. If you want to listen to public IPs, set the IP as 0.0.0.0.
+  You may change the port to anything.
+  
+Pong.py
+  Default RAT file (slight configuration).
+  This RAT file will run on the victim machine without administrator, allowing basic command execution.
+  The IP should be configured within the file before being built.
+  The port can be changed to whatever as long as it is the same as the server.
+  
+Pong Admin.py
+  Exact same RAT as the Pong.py, except, this one prompts the user for admin, in return, you can execute any command you like.
+  Needs the same configuration where the IP should be configured.
+  Port can also be changed to whatever as long as it is the same as the server.
+  
+ Building Batch Scripts
+  Builds Pong files (requires no configuration)
+  There are 2 batch scripts within this repository which will build both the Pong and Pong Admin Scripts depending on which you open.
+  There are no dependencies, they are all included in the built files.
+ 
+Requirements.bat
+  Running this will utilise the requirements.txt file by installing all dependencies needed in the project.
+  
+There is also a Pong Icon in this repository so that you can build the projects with realistic icons and disguises.
+
+Plans:
+  I plan to separate the processes so that the RAT will run on a different, disguised process from the main thread therefore, making it much more robust.
+  I also plan to make the RAT run on startup which will be configurable.
