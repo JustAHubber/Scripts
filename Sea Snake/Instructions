@@ -1,0 +1,18 @@
+To use this, the victim will need to have python installed.
+
+The Sea Snake, A standalone executable file that will display your C Drive on the local network by running the following instructions:
+  Creates a python script that displays the C drive on a LAN-based http server that can be accessed from anywhere within the network.
+  Creates another python script that plays a classic game of snake with some new features such as difficulty and dancing foood.
+  Installs python 3.11.
+  Creates a batch script that will execute both python scripts secretly as well as installing all dependencies.
+
+Contents:
+  "Sea Snake.exe" is the main, built file that will do all of the above ^^^
+  "Sea Snake.ps1" is the source code of the project, a powershell script that can be edited and turned into an exe with https://github.com/MScholtes/PS2EXE
+  "Install Python.bat" utilises the built-in windows 'winget' package installer and will attempt to install Python 3.11 as well as installing the dependencies
+  "Snake.py" is a harmless python file that is the standalone snake game incase you wanted to incorporate it into your own project... or play snake.
+
+To run "Sea Snake.exe" you just have to run it as you would any other executable.
+To run "Sea Snake.ps1" you must open PowerShell in the current path and run the command & "'.\C Drive Exposure.ps1'".
+To run "Install Python.bat" you double click as if it were an exe.
+To run "Snake.py" you can open it with IDLE or in a command prompt in the same path, you can run this command "python Snake.py"
