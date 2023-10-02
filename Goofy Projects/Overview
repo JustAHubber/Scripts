@@ -1,12 +1,19 @@
 Dumb little projects:
 
 Caesar Cipher.py
-  Run python file
-  Enter your string
-  Enter your shift value (password)
-  Enter your method
+  Run python File
+  Enter your String
+  Enter your Shift Value (Password)
+  Enter your Method
 
 Long Alphabet Cipher.py
-  Run python file
-  Enter your string
+  Run python File
+  Enter your String
   Application returns the string where every character is replaced with the longest word beginning with that letter
+
+Extended Cipher.py
+  Run the python file
+  Enter your string
+  Enter your Caesar Password
+  Enter your XOR Password
+  Recieve your new String
