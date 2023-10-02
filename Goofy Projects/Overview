@@ -6,3 +6,7 @@ Caesar Cipher.py
   Enter your shift value (password)
   Enter your method
 
+Long Alphabet Cipher.py
+  Run python file
+  Enter your string
+  Application returns the string where every character is replaced with the longest word beginning with that letter
