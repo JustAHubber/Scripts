@@ -18,11 +18,14 @@ Here is where the projects begin... how wonderful.
 
 ## [Cryplography](https://github.com/JustAHubber/Scripts/tree/main/Cryplography)
 Here is an example of Encrypting and Decrypting files with **Cryplography**
+
 ![Encrypting and Decrypting](https://github.com/JustAHubber/Scripts/assets/100187341/f6a3859e-3ff7-47d3-991d-7d22aac41e61)
 
 Now, here is proof that the file's data was maintained the same and nothing was damaged during encryption and decryption:
+
 ![Working Decrypted File](https://github.com/JustAHubber/Scripts/assets/100187341/77f48511-7d28-4ae4-a9ad-bfb53c497bd3)
 
 ## [Advanced Port Scanner](https://github.com/JustAHubber/Scripts/blob/main/Port%20Scanner/Advanced%20Port%20Scanner.py)
 Here is a showcase of the advanced port scanner from the [port scanner projects](https://github.com/JustAHubber/Scripts/tree/main/Port%20Scanner)
+
 ![Advanced Port Scanner Showcase](https://github.com/JustAHubber/Scripts/assets/100187341/0ce575bd-1afa-4db1-9478-457492ab7847)
