@@ -10,7 +10,8 @@ A collection of scripts that I have created or edited. I am most likely not the 
 *Please do not use any of these projects maliciously, I created these with the intent of either **ethical**, or personal use on Virtual / Physical Machines, and Friends where **consent is given**.*
 
 *If you run a file and it fails to run correctly, before assuming it is broken, run it using CMD or PS, and see if there are any missing imports as I usually use python. To fix a missing import you typically just have to do "pip install (Missing Module)". If that doesn't work, I normally google for 5 minutes, if it doesn't work, I re-install python, if that doesn't work, I move on with my life and forget about the immense time I just wasted. I do know of an unfortunate 3rd scenario which may require VS Build Tools, I can't remember what project it was for but it was annoying.*
-<hr/>
+
+**If there is a requirements.txt with a project, all you need to do is run "pip install -r requirements.txt" which is assuming your terminal is open in the same directory as the requirements.txt. This will install all imports I used in the project (most the time).**
 
 # Projects:
 Here is where the projects begin... how wonderful.
