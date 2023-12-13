@@ -29,3 +29,11 @@ Now, here is proof that the file's data was maintained the same and nothing was 
 Here is a showcase of the advanced port scanner from the [port scanner projects](https://github.com/JustAHubber/Scripts/tree/main/Port%20Scanner)
 
 ![Advanced Port Scanner Showcase](https://github.com/JustAHubber/Scripts/assets/100187341/0ce575bd-1afa-4db1-9478-457492ab7847)
+
+## [Logic Converters](https://github.com/JustAHubber/Scripts/blob/main/Logic%20Converters)
+Here is the [NOT Converter](https://github.com/JustAHubber/Scripts/tree/main/Logic%20Converters/NOT%20Converter)
+
+![NOT Converter Showcase](https://github.com/JustAHubber/Scripts/assets/100187341/bfcd3a62-ae5d-4964-aeeb-f71706a327a7)
+![NOT Converter Showcase](https://github.com/JustAHubber/Scripts/assets/100187341/c43a038f-3cc9-436b-a7f5-ef9cd3757e2f)
+
+XOR Converter coming soon...
