@@ -1,0 +1,5 @@
+Simple NOT converter, either run the compiled EXE or the Python file.
+
+Can convert single binary and hex values, and full blown text strings to hex and text.
+
+A XOR converter is coming soon.
