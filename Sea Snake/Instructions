@@ -13,6 +13,6 @@ Contents:
   "Snake.py" is a harmless python file that is the standalone snake game incase you wanted to incorporate it into your own project... or play snake.
 
 To run "Sea Snake.exe" you just have to run it as you would any other executable.
-To run "Sea Snake.ps1" you must open PowerShell in the current path and run the command & "'.\C Drive Exposure.ps1'".
+To run "Sea Snake.ps1" you must open PowerShell in the current path and run the command & "'.\Sea Snake.ps1'".
 To run "Install Python.bat" you double click as if it were an exe.
 To run "Snake.py" you can open it with IDLE or in a command prompt in the same path, you can run this command "python Snake.py"
